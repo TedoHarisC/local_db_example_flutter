@@ -1,6 +1,6 @@
-# local_db
+# Local DB Example for Flutter
 
-A new Flutter application.
+A Simple Notes App using Local DB for storage in flutter.
 
 ## Getting Started
 
